@@ -1,6 +1,6 @@
 <?php
 include 'database.php';
-var_dump($_POST);
+// var_dump($_POST);
 
 //check if form submited
 if(isset($_POST['submit'])){
